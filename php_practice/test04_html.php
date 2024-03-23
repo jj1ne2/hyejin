@@ -7,9 +7,9 @@
 <body>
   <h3>html 연습</h3>
   <?php
-    echo "출력<br>";
+    echo "출력 연습<br>";
 
-    $name = "이름";
+    $name = "홍길동";
     echo "이름은 {$name}이다";
   ?>
 </body>
