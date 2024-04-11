@@ -1,0 +1,66 @@
+[08-Apr-2024 07:52:03 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'MYSQL_ATTR_INIT_COMMAND' in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 2
+[08-Apr-2024 07:54:19 UTC] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret', Array)
+#1 {main}
+
+Next PDOException: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret', Array)
+#1 {main}
+  thrown in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 2
+[08-Apr-2024 07:56:44 UTC] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret')
+#1 {main}
+
+Next PDOException: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret')
+#1 {main}
+  thrown in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 2
+[08-Apr-2024 07:56:50 UTC] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret', Array)
+#1 {main}
+
+Next PDOException: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret', Array)
+#1 {main}
+  thrown in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 2
+[08-Apr-2024 07:57:06 UTC] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret')
+#1 {main}
+
+Next PDOException: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret')
+#1 {main}
+  thrown in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 2
+[08-Apr-2024 08:01:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret')
+#1 {main}
+  thrown in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 2
+[08-Apr-2024 08:02:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php(2): PDO->__construct('mysql:host=loca...', 'root', 'secret')
+#1 {main}
+  thrown in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 2
+[08-Apr-2024 08:26:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 2
+[09-Apr-2024 01:03:43 UTC] PHP Warning:  Failed to load C:/APM/php-7.4.33-Win32-vc15-x64/ext/php_xdebug-3.1.6-7.4-vc15-x86_64.dll, 지정된 파일을 찾을 수 없습니다.
+ in Unknown on line 0
+[09-Apr-2024 01:03:43 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[09-Apr-2024 01:03:43 UTC] PHP Notice:  Undefined index: mode in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 3
+[09-Apr-2024 04:13:33 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[09-Apr-2024 04:13:33 UTC] PHP Notice:  Undefined index: mode in C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php on line 3
+[09-Apr-2024 04:13:33 UTC] PHP Stack trace:
+[09-Apr-2024 04:13:33 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\mysql\02.php:0

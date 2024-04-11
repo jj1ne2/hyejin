@@ -1,0 +1,124 @@
+[09-Apr-2024 04:23:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:23:07 UTC] PHP Notice:  Undefined index: text in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 3
+[09-Apr-2024 04:23:07 UTC] PHP Stack trace:
+[09-Apr-2024 04:23:07 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:23:07 UTC] PHP Warning:  imagecreatefrompng(button.png): failed to open stream: No such file or directory in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 4
+[09-Apr-2024 04:23:07 UTC] PHP Stack trace:
+[09-Apr-2024 04:23:07 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:23:07 UTC] PHP   2. imagecreatefrompng() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:4
+[09-Apr-2024 04:23:07 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 5
+[09-Apr-2024 04:23:07 UTC] PHP Stack trace:
+[09-Apr-2024 04:23:07 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:23:07 UTC] PHP   2. imagecolorallocate() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:5
+[09-Apr-2024 04:23:07 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 6
+[09-Apr-2024 04:23:07 UTC] PHP Stack trace:
+[09-Apr-2024 04:23:07 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:23:07 UTC] PHP   2. imagesx() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:6
+[09-Apr-2024 04:23:07 UTC] PHP Warning:  imagestring() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 7
+[09-Apr-2024 04:23:07 UTC] PHP Stack trace:
+[09-Apr-2024 04:23:07 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:23:07 UTC] PHP   2. imagestring() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:7
+[09-Apr-2024 04:23:07 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 8
+[09-Apr-2024 04:23:07 UTC] PHP Stack trace:
+[09-Apr-2024 04:23:07 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:23:07 UTC] PHP   2. imagepng() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:8
+[09-Apr-2024 04:23:07 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 9
+[09-Apr-2024 04:23:07 UTC] PHP Stack trace:
+[09-Apr-2024 04:23:07 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:23:07 UTC] PHP   2. imagedestroy() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:9
+[09-Apr-2024 04:24:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:24:22 UTC] PHP Notice:  Undefined index: text in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 3
+[09-Apr-2024 04:24:22 UTC] PHP Stack trace:
+[09-Apr-2024 04:24:22 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:41:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:41:18 UTC] PHP Notice:  Undefined index: text in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 3
+[09-Apr-2024 04:41:18 UTC] PHP Stack trace:
+[09-Apr-2024 04:41:18 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:41:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:41:18 UTC] PHP Notice:  Undefined index: text in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php on line 3
+[09-Apr-2024 04:41:18 UTC] PHP Stack trace:
+[09-Apr-2024 04:41:18 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test01.php:0
+[09-Apr-2024 04:41:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:41:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:20 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:55 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:43:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:00 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:00 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:00 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:00 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:00 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:44:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:45:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagecreatefrompng(text.png): failed to open stream: No such file or directory in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 3
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagecreatefrompng() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:3
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagecreatefrompng(original.png): failed to open stream: No such file or directory in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 4
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagecreatefrompng() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:4
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 9
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagesx() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:9
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 10
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagesy() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:10
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 14
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagesx() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:14
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 14
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagesy() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:14
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 14
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagesx() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:14
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 14
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagesy() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:14
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagecopy() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 14
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagecopy() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:14
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:9) in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 17
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. header() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:17
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 18
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagepng() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:18
+[09-Apr-2024 04:45:30 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php on line 19
+[09-Apr-2024 04:45:30 UTC] PHP Stack trace:
+[09-Apr-2024 04:45:30 UTC] PHP   1. {main}() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:0
+[09-Apr-2024 04:45:30 UTC] PHP   2. imagedestroy() C:\APM\Apache24\htdocs\backend_test_hwang\study\image\test03.php:19
+[09-Apr-2024 04:45:45 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[09-Apr-2024 04:45:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:50:54 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[09-Apr-2024 04:50:58 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(

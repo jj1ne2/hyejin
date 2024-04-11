@@ -1,0 +1,8 @@
+[05-Apr-2024 07:44:36 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[05-Apr-2024 07:44:36 UTC] PHP Notice:  Undefined index: userfile in C:\APM\Apache24\htdocs\backend_test_hwang\study\file\load.php on line 13
+[05-Apr-2024 07:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\APM\Apache24\htdocs\backend_test_hwang\study\file\load.php on line 13
+[05-Apr-2024 07:44:36 UTC] PHP Notice:  Undefined index: userfile in C:\APM\Apache24\htdocs\backend_test_hwang\study\file\load.php on line 15
+[05-Apr-2024 07:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\APM\Apache24\htdocs\backend_test_hwang\study\file\load.php on line 15
+[05-Apr-2024 07:44:36 UTC] PHP Notice:  Undefined index: userfile in C:\APM\Apache24\htdocs\backend_test_hwang\study\file\load.php on line 26
+[05-Apr-2024 07:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\APM\Apache24\htdocs\backend_test_hwang\study\file\load.php on line 26
+[09-Apr-2024 05:59:54 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
